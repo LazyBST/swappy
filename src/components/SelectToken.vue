@@ -10,7 +10,7 @@
     <select
       name="token"
       id="token"
-      :class="[type === 'from' && 'bg-blueGray-100', 'outline-none w-36 text-xl']"
+      :class="[type === 'from' ? 'bg-blueGray-100' : 'bg-white', 'outline-none w-36 text-xl']"
       v-model="selectedTokenAddress"
       @change="onTokenChange($event)"
     >
