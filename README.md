@@ -1,4 +1,5 @@
-# my-profile
+# swappy
+A crypto tokens swapping app where users can swap their existing tokens with another market token. Built using web3.js, vue.js and 1inch apis.
 
 ## Project setup
 ```
