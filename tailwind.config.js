@@ -9,6 +9,9 @@ module.exports = {
         cyan: colors.cyan,
         purple: colors.purple,
       },
+      maxWidth: {
+        '9/10': '90%'
+      }
     },
   },
   variants: {},
