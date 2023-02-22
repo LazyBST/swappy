@@ -1,7 +1,7 @@
 # swappy
 A crypto tokens swapping app where users can swap their existing tokens with another market token. Built using web3.js, vue.js and 1inch apis.
 
-The project is live at https://crypto-swappy.herokuapp.com/
+The project is live at https://swappy-gamma.vercel.app/
 
 ## Project setup
 ```
